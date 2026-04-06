@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'glassx_app_bar.dart';
+import 'glass_x_app_bar.dart';
 
 /// A glass-aware [Scaffold] replacement.
 ///

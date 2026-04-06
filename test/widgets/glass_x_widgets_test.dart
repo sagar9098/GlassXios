@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:glassx_ios/glassx.dart';
+import 'package:glassx_ios/glass_x.dart';
 
 void main() {
   group('GlassX Widgets', () {

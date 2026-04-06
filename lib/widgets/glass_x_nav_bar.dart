@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'glassx_blur.dart';
+import 'glass_x_blur.dart';
 
 /// A glass-styled bottom navigation bar.
 ///

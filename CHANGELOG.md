@@ -10,3 +10,6 @@
 * Global configuration via `GlassXProvider` InheritedWidget.
 * Debug overlay for performance monitoring.
 * Animated blur transitions support.
+
+## 1.1.0
+* Some Update

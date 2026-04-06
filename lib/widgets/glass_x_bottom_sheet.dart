@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../config/glassx_config.dart';
 import '../core/glassx_provider.dart';
-import 'glassx_blur.dart';
+import 'glass_x_blur.dart';
 
 /// Displays a glass-styled modal bottom sheet.
 ///

@@ -27,15 +27,15 @@ export 'core/glassx_theme.dart';
 export 'platform/glassx_platform.dart';
 
 // Widgets
-export 'widgets/glassx_material_app.dart';
-export 'widgets/glassx_scaffold.dart';
-export 'widgets/glassx_app_bar.dart';
-export 'widgets/glassx_container.dart';
-export 'widgets/glassx_card.dart';
-export 'widgets/glassx_blur.dart';
-export 'widgets/glassx_nav_bar.dart';
-export 'widgets/glassx_bottom_sheet.dart';
-export 'widgets/glassx_dialog.dart';
+export 'widgets/glass_x_material_app.dart';
+export 'widgets/glass_x_scaffold.dart';
+export 'widgets/glass_x_app_bar.dart';
+export 'widgets/glass_x_container.dart';
+export 'widgets/glass_x_card.dart';
+export 'widgets/glass_x_blur.dart';
+export 'widgets/glass_x_nav_bar.dart';
+export 'widgets/glass_x_bottom_sheet.dart';
+export 'widgets/glass_x_dialog.dart';
 
 // Utils
 export 'utils/glassx_color_utils.dart';

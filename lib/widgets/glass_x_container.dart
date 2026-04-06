@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../core/glassx_provider.dart';
-import 'glassx_blur.dart';
+import 'glass_x_blur.dart';
 
 /// A glass-surfaced container that blurs its background content.
 ///

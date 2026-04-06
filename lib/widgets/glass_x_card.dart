@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../config/glassx_config.dart';
 import '../core/glassx_provider.dart';
-import 'glassx_blur.dart';
+import 'glass_x_blur.dart';
 
 /// A glass-styled card with elevated shadow and a frosted blur surface.
 ///
