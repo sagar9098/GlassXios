@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:glassx_ios/glassx.dart';
+import 'package:glassx_ios/glass_x.dart';
 
 void main() {
   runApp(const MyApp());
